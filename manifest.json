@@ -1,0 +1,10 @@
+{
+  "Name": "NotEnoughBulletComment",
+  "Author": "Tucaodashen_Official",
+  "Version": "1.0.0",
+  "Description": "enable you to display your liveroom chat in the game",
+  "UniqueID": "Tucaodashen_Official.NotEnoughBulletComment",
+  "EntryDll": "NotEnoughBulletComment.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [""]
+}
