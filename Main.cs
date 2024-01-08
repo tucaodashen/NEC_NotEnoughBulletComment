@@ -1,12 +1,7 @@
 ﻿using System;
 using Microsoft.Xna.Framework;
 using StardewModdingAPI;
-using StardewModdingAPI.Events;
-using StardewModdingAPI.Utilities;
 using StardewValley;
-using StardewValley.Menus;
-using NotEnoughBulletComment;
-using YourModNamespace;
 using System.Threading;
 
 //请高性能机器人亚托莉保佑这段代码不会出bug吧！(/≧▽≦/)
