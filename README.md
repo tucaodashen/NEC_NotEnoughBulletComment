@@ -1,6 +1,6 @@
 # NotEnoughBulletComment
 
-## A simple mode to display bilibili comment in game chatbox.
+## A simple mod to display bilibili comment in game chatbox.
 
 ## 一个用于在游戏内显示弹幕的小工具
 
